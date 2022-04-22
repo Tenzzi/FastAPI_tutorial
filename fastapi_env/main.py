@@ -3,7 +3,7 @@ fastAPI 사용법:
     1. import
     2. instance 생성
     3. 사용할 함수 만들기
-    4. 함수 인스턴스 메서드 데코레이터로 감싸주기
+    4. 함수 인스턴스 메서드 데코레이터로 감싸주기(경로 지정)
 """
 
 from fastapi import FastAPI
